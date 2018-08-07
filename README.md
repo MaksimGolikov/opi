@@ -6,6 +6,12 @@ These displays are small, only about 1" diameter, but very readable due to the h
 SSD1306 communicates via I2C serial interface.
 [DataSheet](https://www.olimex.com/Products/Modules/LCD/MOD-OLED-128x64/resources/SSD1306.pdf)
 
+## Sitronix st7735s
+This is a handy 1.8" 128*160 buy from ebay, RED pcb and has a SD card, it has 3v3 regulator onboard.
+Communicates via SPI serial interface.
+[DataSheet](https://www.displayfuture.com/Display/datasheet/controller/ST7735.pdf)
+
+
 ## userapp_analog_clock
 A Linux userspace application. Draws a simple analog clock on fb0 FrameBuffer device.
 [Low-Level Graphics on Linux](http://betteros.org/tut/graphics1.php)
